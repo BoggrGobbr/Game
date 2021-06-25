@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "knH3x/8iMvnmp3z57p/a+Jg8duZ82d6ffO4uxbSVMeizmM5hiS2J2aeNZelF8xLYcPwAjR1PvG5jRYJl9luSJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\graba\\New Unity Project\\Assets\\Guns\\Gun\\Gun.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\graba\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\graba\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
